@@ -27,7 +27,7 @@ Aerial Vehicles: Path planning in dynamic wind conditions.
 
 Robotics: Decision-making in environments with time-varying disturbances.
 
-References
+References:
 Lantao Liu and Gaurav S. Sukhatme. "A Solution to Time-Varying Markov Decision Processes". IEEE Robotics and Automation Letters, 2018.
 
 Boyan and Littman. "Exact Solutions to Time-Dependent MDPs". Advances in Neural Information Processing Systems, 2000.
